@@ -1,0 +1,912 @@
+[
+    {
+        "interval_pair": "1-2",
+        "feature_drifts": [
+            {
+                "feature": "V1",
+                "wasserstein": 0.10872153346113345,
+                "kl_divergence": 0.001142065969678503,
+                "fisher_diff": 0.09981156283906589
+            },
+            {
+                "feature": "V2",
+                "wasserstein": 0.0871785859732021,
+                "kl_divergence": 0.0013476067524744101,
+                "fisher_diff": 0.06224781285739134
+            },
+            {
+                "feature": "V3",
+                "wasserstein": 0.04378322542210942,
+                "kl_divergence": 0.0007775150984963626,
+                "fisher_diff": 0.030013285055519312
+            },
+            {
+                "feature": "V4",
+                "wasserstein": 0.030897358181411944,
+                "kl_divergence": 0.0005608553106921663,
+                "fisher_diff": 0.023909515268569215
+            },
+            {
+                "feature": "V5",
+                "wasserstein": 0.05536839092947382,
+                "kl_divergence": 0.000720429605503874,
+                "fisher_diff": 0.012894094406105672
+            },
+            {
+                "feature": "V6",
+                "wasserstein": 0.05465799954457888,
+                "kl_divergence": 0.0007833337091765201,
+                "fisher_diff": 0.08732868281891948
+            },
+            {
+                "feature": "V7",
+                "wasserstein": 0.0564812803899716,
+                "kl_divergence": 0.0007163548471360557,
+                "fisher_diff": 0.011886397844687813
+            },
+            {
+                "feature": "V8",
+                "wasserstein": 0.0541165624421507,
+                "kl_divergence": 0.000751209870053801,
+                "fisher_diff": 0.1683796969334277
+            },
+            {
+                "feature": "V9",
+                "wasserstein": 0.02013356328883768,
+                "kl_divergence": 0.0010243365840050943,
+                "fisher_diff": 0.013193034102610524
+            },
+            {
+                "feature": "V10",
+                "wasserstein": 0.02281700881917012,
+                "kl_divergence": 0.0008468325618770138,
+                "fisher_diff": 0.006892201424683497
+            },
+            {
+                "feature": "V11",
+                "wasserstein": 0.03659548026518184,
+                "kl_divergence": 0.001049502283069223,
+                "fisher_diff": 0.019725681487158808
+            },
+            {
+                "feature": "V12",
+                "wasserstein": 0.015099319288923722,
+                "kl_divergence": 0.0015745708253619983,
+                "fisher_diff": 0.012354862172784697
+            },
+            {
+                "feature": "V13",
+                "wasserstein": 0.01858263139204272,
+                "kl_divergence": 0.0008182449849054241,
+                "fisher_diff": 0.0016956615219704263
+            },
+            {
+                "feature": "V14",
+                "wasserstein": 0.040015965325943814,
+                "kl_divergence": 0.0016226528242032077,
+                "fisher_diff": 0.007787803470438948
+            },
+            {
+                "feature": "V15",
+                "wasserstein": 0.013752719385201192,
+                "kl_divergence": 0.000752119123301205,
+                "fisher_diff": 0.023148673748328297
+            },
+            {
+                "feature": "V16",
+                "wasserstein": 0.03230375467952714,
+                "kl_divergence": 0.0009079592981989835,
+                "fisher_diff": 0.0676481321983875
+            },
+            {
+                "feature": "V17",
+                "wasserstein": 0.03125795903040845,
+                "kl_divergence": 0.0008129556600675358,
+                "fisher_diff": 0.01040947778589163
+            },
+            {
+                "feature": "V18",
+                "wasserstein": 0.04416578901206212,
+                "kl_divergence": 0.0010575114879674374,
+                "fisher_diff": 0.04219687234857705
+            },
+            {
+                "feature": "V19",
+                "wasserstein": 0.020153146635654894,
+                "kl_divergence": 0.0005431228664232323,
+                "fisher_diff": 0.06547723835488539
+            },
+            {
+                "feature": "V20",
+                "wasserstein": 0.03367211041166665,
+                "kl_divergence": 0.0006194867624784145,
+                "fisher_diff": 0.08811440876336718
+            },
+            {
+                "feature": "V21",
+                "wasserstein": 0.02445827546196927,
+                "kl_divergence": 0.0006075610963281214,
+                "fisher_diff": 0.0036666096085236077
+            },
+            {
+                "feature": "V22",
+                "wasserstein": 0.021520185310907228,
+                "kl_divergence": 0.0010172981626578434,
+                "fisher_diff": 0.005761592512958824
+            },
+            {
+                "feature": "V23",
+                "wasserstein": 0.025514908174747428,
+                "kl_divergence": 0.0009407077028622366,
+                "fisher_diff": 0.2741777208416565
+            },
+            {
+                "feature": "V24",
+                "wasserstein": 0.008083005277792304,
+                "kl_divergence": 0.0006353572925123926,
+                "fisher_diff": 0.1718980603526421
+            },
+            {
+                "feature": "V25",
+                "wasserstein": 0.00961343607971991,
+                "kl_divergence": 0.0005198112842007379,
+                "fisher_diff": 0.09290165528414907
+            },
+            {
+                "feature": "V26",
+                "wasserstein": 0.013855462528464434,
+                "kl_divergence": 0.0010083190134856808,
+                "fisher_diff": 0.09138602568013088
+            },
+            {
+                "feature": "V27",
+                "wasserstein": 0.011883486528017777,
+                "kl_divergence": 0.0005251065871603956,
+                "fisher_diff": 0.33455608779805246
+            },
+            {
+                "feature": "V28",
+                "wasserstein": 0.009177066021506105,
+                "kl_divergence": 0.0010782825597517591,
+                "fisher_diff": 0.4081080867340461
+            },
+            {
+                "feature": "Amount",
+                "wasserstein": 4.5225273876404195,
+                "kl_divergence": 0.0006034572619228907,
+                "fisher_diff": 0.00921892172338351
+            }
+        ],
+        "avg_wasserstein": 0.1884961240311102,
+        "avg_kl_divergence": 0.0008746402546880178,
+        "avg_fisher_diff": 0.07747551227373496
+    },
+    {
+        "interval_pair": "2-3",
+        "feature_drifts": [
+            {
+                "feature": "V1",
+                "wasserstein": 0.09724434962358897,
+                "kl_divergence": 0.0008785527776766389,
+                "fisher_diff": 0.30539093355426195
+            },
+            {
+                "feature": "V2",
+                "wasserstein": 0.08516311323742509,
+                "kl_divergence": 0.001609205945900288,
+                "fisher_diff": 0.0865203581750823
+            },
+            {
+                "feature": "V3",
+                "wasserstein": 0.047492051416409255,
+                "kl_divergence": 0.0006963560839092371,
+                "fisher_diff": 0.05777273885690076
+            },
+            {
+                "feature": "V4",
+                "wasserstein": 0.05491329059341881,
+                "kl_divergence": 0.0007881016389704451,
+                "fisher_diff": 0.20455406797509612
+            },
+            {
+                "feature": "V5",
+                "wasserstein": 0.04422674025418572,
+                "kl_divergence": 0.0007312744372766185,
+                "fisher_diff": 0.047803345251623
+            },
+            {
+                "feature": "V6",
+                "wasserstein": 0.027153400517845844,
+                "kl_divergence": 0.0004944950409507998,
+                "fisher_diff": 0.019605421714974258
+            },
+            {
+                "feature": "V7",
+                "wasserstein": 0.060338686356107674,
+                "kl_divergence": 0.0011599807921898002,
+                "fisher_diff": 0.11803912668868433
+            },
+            {
+                "feature": "V8",
+                "wasserstein": 0.06671138570997082,
+                "kl_divergence": 0.0011219740740732724,
+                "fisher_diff": 0.2996315923295443
+            },
+            {
+                "feature": "V9",
+                "wasserstein": 0.0519723752591382,
+                "kl_divergence": 0.001220133384834986,
+                "fisher_diff": 0.06768190583668687
+            },
+            {
+                "feature": "V10",
+                "wasserstein": 0.0666762233986481,
+                "kl_divergence": 0.0014143809735644285,
+                "fisher_diff": 0.0736149467713334
+            },
+            {
+                "feature": "V11",
+                "wasserstein": 0.020710293872892784,
+                "kl_divergence": 0.0009365487358466971,
+                "fisher_diff": 0.02484493538347865
+            },
+            {
+                "feature": "V12",
+                "wasserstein": 0.029078057317766574,
+                "kl_divergence": 0.0010497246604817263,
+                "fisher_diff": 0.03781506266770118
+            },
+            {
+                "feature": "V13",
+                "wasserstein": 0.023383218089369558,
+                "kl_divergence": 0.0006782091574384186,
+                "fisher_diff": 0.012938814805692145
+            },
+            {
+                "feature": "V14",
+                "wasserstein": 0.05102107054394191,
+                "kl_divergence": 0.0011842429684788317,
+                "fisher_diff": 0.01306068120732018
+            },
+            {
+                "feature": "V15",
+                "wasserstein": 0.019955406072975385,
+                "kl_divergence": 0.0006727420150496472,
+                "fisher_diff": 0.01827281393787794
+            },
+            {
+                "feature": "V16",
+                "wasserstein": 0.02750906774975012,
+                "kl_divergence": 0.0008558182706302049,
+                "fisher_diff": 0.16026065884518703
+            },
+            {
+                "feature": "V17",
+                "wasserstein": 0.014729872418254054,
+                "kl_divergence": 0.0008144560066167215,
+                "fisher_diff": 0.05558021609879149
+            },
+            {
+                "feature": "V18",
+                "wasserstein": 0.03700352739968531,
+                "kl_divergence": 0.001112662245554762,
+                "fisher_diff": 0.02526883906904931
+            },
+            {
+                "feature": "V19",
+                "wasserstein": 0.028068875447411584,
+                "kl_divergence": 0.0007355942045850604,
+                "fisher_diff": 0.18142749926078494
+            },
+            {
+                "feature": "V20",
+                "wasserstein": 0.04425967249029836,
+                "kl_divergence": 0.0008891102085523597,
+                "fisher_diff": 0.7939792758890736
+            },
+            {
+                "feature": "V21",
+                "wasserstein": 0.04208147964607234,
+                "kl_divergence": 0.0011990169905092914,
+                "fisher_diff": 0.14921378061118595
+            },
+            {
+                "feature": "V22",
+                "wasserstein": 0.04696352734801294,
+                "kl_divergence": 0.0012506146305626977,
+                "fisher_diff": 0.025455661425616505
+            },
+            {
+                "feature": "V23",
+                "wasserstein": 0.03125918126130209,
+                "kl_divergence": 0.0010159073626937849,
+                "fisher_diff": 0.21265180236339543
+            },
+            {
+                "feature": "V24",
+                "wasserstein": 0.014511115850673066,
+                "kl_divergence": 0.0005468656580861038,
+                "fisher_diff": 0.17190467462492576
+            },
+            {
+                "feature": "V25",
+                "wasserstein": 0.03173091311016277,
+                "kl_divergence": 0.0011849858458583395,
+                "fisher_diff": 0.31007077200167465
+            },
+            {
+                "feature": "V26",
+                "wasserstein": 0.007260805105670511,
+                "kl_divergence": 0.0008989278369288007,
+                "fisher_diff": 0.20770400886724882
+            },
+            {
+                "feature": "V27",
+                "wasserstein": 0.012343179223835439,
+                "kl_divergence": 0.0007417194579172364,
+                "fisher_diff": 0.23889572088620525
+            },
+            {
+                "feature": "V28",
+                "wasserstein": 0.016770563390284293,
+                "kl_divergence": 0.0008048621272946,
+                "fisher_diff": 0.37630143825333207
+            },
+            {
+                "feature": "Amount",
+                "wasserstein": 6.021108146067391,
+                "kl_divergence": 0.0006153191868007992,
+                "fisher_diff": 0.03294685386019863
+            }
+        ],
+        "avg_wasserstein": 0.24557377892318927,
+        "avg_kl_divergence": 0.0009414407834218137,
+        "avg_fisher_diff": 0.1492830326625147
+    },
+    {
+        "interval_pair": "3-4",
+        "feature_drifts": [
+            {
+                "feature": "V1",
+                "wasserstein": 0.08999707765113316,
+                "kl_divergence": 0.0007605722036909849,
+                "fisher_diff": 0.23397391354578456
+            },
+            {
+                "feature": "V2",
+                "wasserstein": 0.11469983903178413,
+                "kl_divergence": 0.0015893289427396952,
+                "fisher_diff": 0.011813920041044312
+            },
+            {
+                "feature": "V3",
+                "wasserstein": 0.0525454407742852,
+                "kl_divergence": 0.0006946988218250083,
+                "fisher_diff": 0.0018581212372154043
+            },
+            {
+                "feature": "V4",
+                "wasserstein": 0.09174634221408236,
+                "kl_divergence": 0.0011594622367001272,
+                "fisher_diff": 0.05545391634117891
+            },
+            {
+                "feature": "V5",
+                "wasserstein": 0.043784218421230495,
+                "kl_divergence": 0.00048444229884895944,
+                "fisher_diff": 0.02137195436953565
+            },
+            {
+                "feature": "V6",
+                "wasserstein": 0.036128850138665666,
+                "kl_divergence": 0.0007269208874338723,
+                "fisher_diff": 0.02614117450092479
+            },
+            {
+                "feature": "V7",
+                "wasserstein": 0.04775772391845378,
+                "kl_divergence": 0.0005418977899468598,
+                "fisher_diff": 0.0014382086112895154
+            },
+            {
+                "feature": "V8",
+                "wasserstein": 0.04415869561588877,
+                "kl_divergence": 0.0008226678074817951,
+                "fisher_diff": 0.07093307260462467
+            },
+            {
+                "feature": "V9",
+                "wasserstein": 0.016196409926040965,
+                "kl_divergence": 0.0012160830423234975,
+                "fisher_diff": 0.0003217213495859683
+            },
+            {
+                "feature": "V10",
+                "wasserstein": 0.031342823865771696,
+                "kl_divergence": 0.0010553086692885194,
+                "fisher_diff": 0.006212965691193784
+            },
+            {
+                "feature": "V11",
+                "wasserstein": 0.03041246029069814,
+                "kl_divergence": 0.0008946963424391603,
+                "fisher_diff": 0.013431618124327915
+            },
+            {
+                "feature": "V12",
+                "wasserstein": 0.02193359864303911,
+                "kl_divergence": 0.0008379894495058763,
+                "fisher_diff": 0.004762770075316114
+            },
+            {
+                "feature": "V13",
+                "wasserstein": 0.020462472898154407,
+                "kl_divergence": 0.0007496875344778775,
+                "fisher_diff": 0.009731302387100071
+            },
+            {
+                "feature": "V14",
+                "wasserstein": 0.04220515307256045,
+                "kl_divergence": 0.0009505671563950414,
+                "fisher_diff": 0.02125745042354954
+            },
+            {
+                "feature": "V15",
+                "wasserstein": 0.04405262076656409,
+                "kl_divergence": 0.000972111826290551,
+                "fisher_diff": 0.03394277098968801
+            },
+            {
+                "feature": "V16",
+                "wasserstein": 0.014319436596386036,
+                "kl_divergence": 0.0006115682039561315,
+                "fisher_diff": 0.014007961461582674
+            },
+            {
+                "feature": "V17",
+                "wasserstein": 0.02110969082183272,
+                "kl_divergence": 0.0006307757222532408,
+                "fisher_diff": 0.03157361606820763
+            },
+            {
+                "feature": "V18",
+                "wasserstein": 0.024918314031781918,
+                "kl_divergence": 0.0007112141486984076,
+                "fisher_diff": 0.03261658738436135
+            },
+            {
+                "feature": "V19",
+                "wasserstein": 0.031528869242636925,
+                "kl_divergence": 0.0008626431512562736,
+                "fisher_diff": 0.014066249618058357
+            },
+            {
+                "feature": "V20",
+                "wasserstein": 0.050160223942850274,
+                "kl_divergence": 0.0013937165406135625,
+                "fisher_diff": 0.30542250552450056
+            },
+            {
+                "feature": "V21",
+                "wasserstein": 0.028617781362577338,
+                "kl_divergence": 0.0010653788068584525,
+                "fisher_diff": 0.23181315740233366
+            },
+            {
+                "feature": "V22",
+                "wasserstein": 0.01446032407191928,
+                "kl_divergence": 0.0007284164483548363,
+                "fisher_diff": 0.12813493308545287
+            },
+            {
+                "feature": "V23",
+                "wasserstein": 0.03493687278062657,
+                "kl_divergence": 0.0005583556953274578,
+                "fisher_diff": 0.025654646620790977
+            },
+            {
+                "feature": "V24",
+                "wasserstein": 0.01761974532234414,
+                "kl_divergence": 0.0009159276289987094,
+                "fisher_diff": 0.12019629023274092
+            },
+            {
+                "feature": "V25",
+                "wasserstein": 0.023550133375346248,
+                "kl_divergence": 0.0008866441668208874,
+                "fisher_diff": 0.4991296618736536
+            },
+            {
+                "feature": "V26",
+                "wasserstein": 0.013872456009481548,
+                "kl_divergence": 0.0012464959480634054,
+                "fisher_diff": 0.13211283134038254
+            },
+            {
+                "feature": "V27",
+                "wasserstein": 0.01847253849250574,
+                "kl_divergence": 0.0007769893423525204,
+                "fisher_diff": 0.02938887816498159
+            },
+            {
+                "feature": "V28",
+                "wasserstein": 0.017644679147620412,
+                "kl_divergence": 0.001517815687806006,
+                "fisher_diff": 0.2059794367936263
+            },
+            {
+                "feature": "Amount",
+                "wasserstein": 18.040726123595427,
+                "kl_divergence": 0.0007167624109996754,
+                "fisher_diff": 0.09453312227911326
+            }
+        ],
+        "avg_wasserstein": 0.6579089971041961,
+        "avg_kl_divergence": 0.0008992806521292203,
+        "avg_fisher_diff": 0.08197499166007398
+    },
+    {
+        "interval_pair": "4-5",
+        "feature_drifts": [
+            {
+                "feature": "V1",
+                "wasserstein": 0.02805108387067937,
+                "kl_divergence": 0.0006102007191218343,
+                "fisher_diff": 0.11200124636178455
+            },
+            {
+                "feature": "V2",
+                "wasserstein": 0.07941599186257095,
+                "kl_divergence": 0.0011350226296338228,
+                "fisher_diff": 0.12520518180828943
+            },
+            {
+                "feature": "V3",
+                "wasserstein": 0.03936607652338481,
+                "kl_divergence": 0.0011003698329876482,
+                "fisher_diff": 0.0385948891179671
+            },
+            {
+                "feature": "V4",
+                "wasserstein": 0.05478000875221055,
+                "kl_divergence": 0.0014136982126714938,
+                "fisher_diff": 0.15314881811169734
+            },
+            {
+                "feature": "V5",
+                "wasserstein": 0.06574470594019223,
+                "kl_divergence": 0.0011096516242400769,
+                "fisher_diff": 0.07564256629083665
+            },
+            {
+                "feature": "V6",
+                "wasserstein": 0.04429834331247559,
+                "kl_divergence": 0.0006512220889028286,
+                "fisher_diff": 0.1496869849414847
+            },
+            {
+                "feature": "V7",
+                "wasserstein": 0.05724286864912781,
+                "kl_divergence": 0.0011016521636859394,
+                "fisher_diff": 0.15441449527130469
+            },
+            {
+                "feature": "V8",
+                "wasserstein": 0.04141284175518905,
+                "kl_divergence": 0.0006083928597507398,
+                "fisher_diff": 0.6996994416384572
+            },
+            {
+                "feature": "V9",
+                "wasserstein": 0.024724514329561416,
+                "kl_divergence": 0.0007953318772195368,
+                "fisher_diff": 0.11647649029474405
+            },
+            {
+                "feature": "V10",
+                "wasserstein": 0.035388182205862005,
+                "kl_divergence": 0.0014205376510181497,
+                "fisher_diff": 0.06507250221715855
+            },
+            {
+                "feature": "V11",
+                "wasserstein": 0.05178421769154088,
+                "kl_divergence": 0.0013293350613788222,
+                "fisher_diff": 0.06156335577473582
+            },
+            {
+                "feature": "V12",
+                "wasserstein": 0.07295645036190858,
+                "kl_divergence": 0.002236849432688819,
+                "fisher_diff": 0.1002495590153929
+            },
+            {
+                "feature": "V13",
+                "wasserstein": 0.06027175707209023,
+                "kl_divergence": 0.0012517858848524813,
+                "fisher_diff": 0.031999397440905075
+            },
+            {
+                "feature": "V14",
+                "wasserstein": 0.05234918559573817,
+                "kl_divergence": 0.0014689856441494158,
+                "fisher_diff": 0.14280513414601614
+            },
+            {
+                "feature": "V15",
+                "wasserstein": 0.0737969460015467,
+                "kl_divergence": 0.002085643741824102,
+                "fisher_diff": 0.06313731025285318
+            },
+            {
+                "feature": "V16",
+                "wasserstein": 0.028465859344504255,
+                "kl_divergence": 0.0011994862483400643,
+                "fisher_diff": 0.11080756337458197
+            },
+            {
+                "feature": "V17",
+                "wasserstein": 0.055260496054135244,
+                "kl_divergence": 0.0014094965755499596,
+                "fisher_diff": 0.11230899595753718
+            },
+            {
+                "feature": "V18",
+                "wasserstein": 0.03989371955815878,
+                "kl_divergence": 0.0010273049597955275,
+                "fisher_diff": 0.10319991938414308
+            },
+            {
+                "feature": "V19",
+                "wasserstein": 0.01823141208262936,
+                "kl_divergence": 0.0007428716936937009,
+                "fisher_diff": 0.2224567906832613
+            },
+            {
+                "feature": "V20",
+                "wasserstein": 0.012744157479193734,
+                "kl_divergence": 0.0005094871240619762,
+                "fisher_diff": 0.09249745761821693
+            },
+            {
+                "feature": "V21",
+                "wasserstein": 0.028868979493486425,
+                "kl_divergence": 0.0006606206562125514,
+                "fisher_diff": 0.04558001332160533
+            },
+            {
+                "feature": "V22",
+                "wasserstein": 0.0383761267332515,
+                "kl_divergence": 0.0014239547500754415,
+                "fisher_diff": 0.0026717993342606494
+            },
+            {
+                "feature": "V23",
+                "wasserstein": 0.011687031322564614,
+                "kl_divergence": 0.0004014299476866039,
+                "fisher_diff": 0.09425367152405517
+            },
+            {
+                "feature": "V24",
+                "wasserstein": 0.01125614197266931,
+                "kl_divergence": 0.0005898394573811723,
+                "fisher_diff": 0.057794726903951155
+            },
+            {
+                "feature": "V25",
+                "wasserstein": 0.011213425027243505,
+                "kl_divergence": 0.00044757143733348254,
+                "fisher_diff": 0.23469264068540774
+            },
+            {
+                "feature": "V26",
+                "wasserstein": 0.020098641094411705,
+                "kl_divergence": 0.0031789682327402697,
+                "fisher_diff": 0.3136543654305459
+            },
+            {
+                "feature": "V27",
+                "wasserstein": 0.011194907487664415,
+                "kl_divergence": 0.0006866517731871069,
+                "fisher_diff": 0.02255204071797401
+            },
+            {
+                "feature": "V28",
+                "wasserstein": 0.009056092765456679,
+                "kl_divergence": 0.0005576421670099082,
+                "fisher_diff": 0.024931505207277382
+            },
+            {
+                "feature": "Amount",
+                "wasserstein": 7.768897471910106,
+                "kl_divergence": 0.00031569674122052183,
+                "fisher_diff": 0.020061542995284287
+            }
+        ],
+        "avg_wasserstein": 0.3050630219396398,
+        "avg_kl_divergence": 0.0010851621099453102,
+        "avg_fisher_diff": 0.12231587606281827
+    },
+    {
+        "interval_pair": "5-6",
+        "feature_drifts": [
+            {
+                "feature": "V1",
+                "wasserstein": 0.18027472805779024,
+                "kl_divergence": 0.0016258732459234415,
+                "fisher_diff": 0.4935504841382361
+            },
+            {
+                "feature": "V2",
+                "wasserstein": 0.17157150951660477,
+                "kl_divergence": 0.0021757052158798956,
+                "fisher_diff": 0.02640241211375205
+            },
+            {
+                "feature": "V3",
+                "wasserstein": 0.06342077452314775,
+                "kl_divergence": 0.0009663163981240545,
+                "fisher_diff": 0.0037899434727542425
+            },
+            {
+                "feature": "V4",
+                "wasserstein": 0.02306415661928589,
+                "kl_divergence": 0.0007485798739124447,
+                "fisher_diff": 0.045820698621580336
+            },
+            {
+                "feature": "V5",
+                "wasserstein": 0.06409921951672791,
+                "kl_divergence": 0.0013867386426849278,
+                "fisher_diff": 0.04128937788331544
+            },
+            {
+                "feature": "V6",
+                "wasserstein": 0.023707993338962903,
+                "kl_divergence": 0.0004676484026385505,
+                "fisher_diff": 0.0940362595772315
+            },
+            {
+                "feature": "V7",
+                "wasserstein": 0.05668282986699558,
+                "kl_divergence": 0.001000453252874535,
+                "fisher_diff": 0.04644776531586636
+            },
+            {
+                "feature": "V8",
+                "wasserstein": 0.07048513781952186,
+                "kl_divergence": 0.0011235669654719202,
+                "fisher_diff": 0.5353007862272787
+            },
+            {
+                "feature": "V9",
+                "wasserstein": 0.030001268132403513,
+                "kl_divergence": 0.0011836616880368132,
+                "fisher_diff": 0.023575237955752226
+            },
+            {
+                "feature": "V10",
+                "wasserstein": 0.07264082298054857,
+                "kl_divergence": 0.0017576450305651734,
+                "fisher_diff": 0.023407194523239694
+            },
+            {
+                "feature": "V11",
+                "wasserstein": 0.01673728542093335,
+                "kl_divergence": 0.0009731081535744812,
+                "fisher_diff": 0.06593052390709364
+            },
+            {
+                "feature": "V12",
+                "wasserstein": 0.04435040889025682,
+                "kl_divergence": 0.0011066277294129784,
+                "fisher_diff": 0.02844103188597269
+            },
+            {
+                "feature": "V13",
+                "wasserstein": 0.02480127310742916,
+                "kl_divergence": 0.0008040950393583191,
+                "fisher_diff": 0.0011174710399273202
+            },
+            {
+                "feature": "V14",
+                "wasserstein": 0.03213216278153506,
+                "kl_divergence": 0.0010957787894905202,
+                "fisher_diff": 0.07323877065075024
+            },
+            {
+                "feature": "V15",
+                "wasserstein": 0.040151908017238155,
+                "kl_divergence": 0.0007928655924749727,
+                "fisher_diff": 0.00305562549374927
+            },
+            {
+                "feature": "V16",
+                "wasserstein": 0.030286641742862032,
+                "kl_divergence": 0.0007024193816679439,
+                "fisher_diff": 0.09806448617735786
+            },
+            {
+                "feature": "V17",
+                "wasserstein": 0.03249609839109556,
+                "kl_divergence": 0.0010369270800537945,
+                "fisher_diff": 0.039065216039097184
+            },
+            {
+                "feature": "V18",
+                "wasserstein": 0.02031311789451031,
+                "kl_divergence": 0.000895315983118084,
+                "fisher_diff": 0.003515493497077804
+            },
+            {
+                "feature": "V19",
+                "wasserstein": 0.01276202542204596,
+                "kl_divergence": 0.0005703816891228708,
+                "fisher_diff": 0.0005158554145388017
+            },
+            {
+                "feature": "V20",
+                "wasserstein": 0.028756983024156416,
+                "kl_divergence": 0.0007293822481970834,
+                "fisher_diff": 0.18029504457214252
+            },
+            {
+                "feature": "V21",
+                "wasserstein": 0.024133796113605437,
+                "kl_divergence": 0.0009107185302447535,
+                "fisher_diff": 0.055633669427232135
+            },
+            {
+                "feature": "V22",
+                "wasserstein": 0.017215443316358887,
+                "kl_divergence": 0.0009634794513693402,
+                "fisher_diff": 0.11646198350100012
+            },
+            {
+                "feature": "V23",
+                "wasserstein": 0.016902859083481,
+                "kl_divergence": 0.0004910945235640926,
+                "fisher_diff": 0.2527531060275132
+            },
+            {
+                "feature": "V24",
+                "wasserstein": 0.015153313468657996,
+                "kl_divergence": 0.0007242701566743696,
+                "fisher_diff": 0.0030462574808107767
+            },
+            {
+                "feature": "V25",
+                "wasserstein": 0.015225349533244673,
+                "kl_divergence": 0.0005083182230973475,
+                "fisher_diff": 0.16734000115734426
+            },
+            {
+                "feature": "V26",
+                "wasserstein": 0.010648058922268099,
+                "kl_divergence": 0.0016699361489618816,
+                "fisher_diff": 0.21777405010071726
+            },
+            {
+                "feature": "V27",
+                "wasserstein": 0.02230359063919353,
+                "kl_divergence": 0.0010476158118206936,
+                "fisher_diff": 1.3408456121068912
+            },
+            {
+                "feature": "V28",
+                "wasserstein": 0.014421533712965267,
+                "kl_divergence": 0.0007782849803475037,
+                "fisher_diff": 0.36344308490186705
+            },
+            {
+                "feature": "Amount",
+                "wasserstein": 6.066482443820091,
+                "kl_divergence": 0.000657495019978161,
+                "fisher_diff": 0.04449602429891142
+            }
+        ],
+        "avg_wasserstein": 0.24969733564392815,
+        "avg_kl_divergence": 0.0009963552844358947,
+        "avg_fisher_diff": 0.15133287818996558
+    }
+]

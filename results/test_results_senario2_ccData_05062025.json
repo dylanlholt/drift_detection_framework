@@ -1,0 +1,554 @@
+[
+    {
+        "interval_pair": "1-Test",
+        "feature_drifts": [
+            {
+                "feature": "V17",
+                "wasserstein": 0.017029689996761434,
+                "kl_divergence": [],
+                "fisher_diff": []
+            },
+            {
+                "feature": "V10",
+                "wasserstein": 0.09909781663385164,
+                "kl_divergence": [],
+                "fisher_diff": []
+            },
+            {
+                "feature": "V14",
+                "wasserstein": 0.05953524936149673,
+                "kl_divergence": [],
+                "fisher_diff": []
+            },
+            {
+                "feature": "V12",
+                "wasserstein": 0.1007197501463472,
+                "kl_divergence": [],
+                "fisher_diff": []
+            },
+            {
+                "feature": "V11",
+                "wasserstein": 0.04270548367968929,
+                "kl_divergence": [],
+                "fisher_diff": []
+            },
+            {
+                "feature": "V16",
+                "wasserstein": 0.2408920021175628,
+                "kl_divergence": [],
+                "fisher_diff": []
+            },
+            {
+                "feature": "V4",
+                "wasserstein": 0.02646724588848725,
+                "kl_divergence": [],
+                "fisher_diff": []
+            },
+            {
+                "feature": "V7",
+                "wasserstein": 0.18524028107044127,
+                "kl_divergence": [],
+                "fisher_diff": []
+            },
+            {
+                "feature": "V18",
+                "wasserstein": 0.04038185263035399,
+                "kl_divergence": [],
+                "fisher_diff": []
+            },
+            {
+                "feature": "V3",
+                "wasserstein": 0.0894367201369627,
+                "kl_divergence": [],
+                "fisher_diff": []
+            },
+            {
+                "feature": "V9",
+                "wasserstein": 0.019072656334722132,
+                "kl_divergence": [],
+                "fisher_diff": []
+            },
+            {
+                "feature": "V5",
+                "wasserstein": 0.2539881545963263,
+                "kl_divergence": [],
+                "fisher_diff": []
+            },
+            {
+                "feature": "V1",
+                "wasserstein": 0.006232410104079106,
+                "kl_divergence": [],
+                "fisher_diff": []
+            },
+            {
+                "feature": "V6",
+                "wasserstein": 0.2651811131940995,
+                "kl_divergence": [],
+                "fisher_diff": []
+            }
+        ],
+        "avg_wasserstein": 0.10328431613508438,
+        "avg_kl_divergence": "NA",
+        "avg_fisher_diff": "NA"
+    },
+    {
+        "interval_pair": "2-Test",
+        "feature_drifts": [
+            {
+                "feature": "V17",
+                "wasserstein": 0.0014101634312850351,
+                "kl_divergence": [],
+                "fisher_diff": []
+            },
+            {
+                "feature": "V10",
+                "wasserstein": 0.11169517900142639,
+                "kl_divergence": [],
+                "fisher_diff": []
+            },
+            {
+                "feature": "V14",
+                "wasserstein": 0.03138697031146516,
+                "kl_divergence": [],
+                "fisher_diff": []
+            },
+            {
+                "feature": "V12",
+                "wasserstein": 0.09063248904499706,
+                "kl_divergence": [],
+                "fisher_diff": []
+            },
+            {
+                "feature": "V11",
+                "wasserstein": 0.06300341900245918,
+                "kl_divergence": [],
+                "fisher_diff": []
+            },
+            {
+                "feature": "V16",
+                "wasserstein": 0.10954040149164863,
+                "kl_divergence": [],
+                "fisher_diff": []
+            },
+            {
+                "feature": "V4",
+                "wasserstein": 0.030031811284248772,
+                "kl_divergence": [],
+                "fisher_diff": []
+            },
+            {
+                "feature": "V7",
+                "wasserstein": 0.15625428632699506,
+                "kl_divergence": [],
+                "fisher_diff": []
+            },
+            {
+                "feature": "V18",
+                "wasserstein": 0.038898867178820774,
+                "kl_divergence": [],
+                "fisher_diff": []
+            },
+            {
+                "feature": "V3",
+                "wasserstein": 0.07101963081964954,
+                "kl_divergence": [],
+                "fisher_diff": []
+            },
+            {
+                "feature": "V9",
+                "wasserstein": 0.06840687619018261,
+                "kl_divergence": [],
+                "fisher_diff": []
+            },
+            {
+                "feature": "V5",
+                "wasserstein": 0.21483736372306586,
+                "kl_divergence": [],
+                "fisher_diff": []
+            },
+            {
+                "feature": "V1",
+                "wasserstein": 0.0020259096191665485,
+                "kl_divergence": [],
+                "fisher_diff": []
+            },
+            {
+                "feature": "V6",
+                "wasserstein": 0.2310444919899741,
+                "kl_divergence": [],
+                "fisher_diff": []
+            }
+        ],
+        "avg_wasserstein": 0.08715627567252748,
+        "avg_kl_divergence": "NA",
+        "avg_fisher_diff": "NA"
+    },
+    {
+        "interval_pair": "3-Test",
+        "feature_drifts": [
+            {
+                "feature": "V17",
+                "wasserstein": 0.03579371160204569,
+                "kl_divergence": [],
+                "fisher_diff": []
+            },
+            {
+                "feature": "V10",
+                "wasserstein": 0.13128242645144345,
+                "kl_divergence": [],
+                "fisher_diff": []
+            },
+            {
+                "feature": "V14",
+                "wasserstein": 0.030519726686420286,
+                "kl_divergence": [],
+                "fisher_diff": []
+            },
+            {
+                "feature": "V12",
+                "wasserstein": 0.007493085327903085,
+                "kl_divergence": [],
+                "fisher_diff": []
+            },
+            {
+                "feature": "V11",
+                "wasserstein": 0.08114118680802787,
+                "kl_divergence": [],
+                "fisher_diff": []
+            },
+            {
+                "feature": "V16",
+                "wasserstein": 0.1961816516419651,
+                "kl_divergence": [],
+                "fisher_diff": []
+            },
+            {
+                "feature": "V4",
+                "wasserstein": 0.040105233360964415,
+                "kl_divergence": [],
+                "fisher_diff": []
+            },
+            {
+                "feature": "V7",
+                "wasserstein": 0.29202918531879546,
+                "kl_divergence": [],
+                "fisher_diff": []
+            },
+            {
+                "feature": "V18",
+                "wasserstein": 0.054790824633380204,
+                "kl_divergence": [],
+                "fisher_diff": []
+            },
+            {
+                "feature": "V3",
+                "wasserstein": 0.11104296738710077,
+                "kl_divergence": [],
+                "fisher_diff": []
+            },
+            {
+                "feature": "V9",
+                "wasserstein": 0.03851401922588495,
+                "kl_divergence": [],
+                "fisher_diff": []
+            },
+            {
+                "feature": "V5",
+                "wasserstein": 0.35493665366526683,
+                "kl_divergence": [],
+                "fisher_diff": []
+            },
+            {
+                "feature": "V1",
+                "wasserstein": 0.006871214401755442,
+                "kl_divergence": [],
+                "fisher_diff": []
+            },
+            {
+                "feature": "V6",
+                "wasserstein": 0.3675856535975878,
+                "kl_divergence": [],
+                "fisher_diff": []
+            }
+        ],
+        "avg_wasserstein": 0.12487768143632438,
+        "avg_kl_divergence": "NA",
+        "avg_fisher_diff": "NA"
+    },
+    {
+        "interval_pair": "4-Test",
+        "feature_drifts": [
+            {
+                "feature": "V17",
+                "wasserstein": 0.014126389470015982,
+                "kl_divergence": [],
+                "fisher_diff": []
+            },
+            {
+                "feature": "V10",
+                "wasserstein": 0.05746409846782171,
+                "kl_divergence": [],
+                "fisher_diff": []
+            },
+            {
+                "feature": "V14",
+                "wasserstein": 0.007316955999091538,
+                "kl_divergence": [],
+                "fisher_diff": []
+            },
+            {
+                "feature": "V12",
+                "wasserstein": 0.002618452302353726,
+                "kl_divergence": [],
+                "fisher_diff": []
+            },
+            {
+                "feature": "V11",
+                "wasserstein": 0.01051922613882244,
+                "kl_divergence": [],
+                "fisher_diff": []
+            },
+            {
+                "feature": "V16",
+                "wasserstein": 0.31815384619879283,
+                "kl_divergence": [],
+                "fisher_diff": []
+            },
+            {
+                "feature": "V4",
+                "wasserstein": 0.061192098792050745,
+                "kl_divergence": [],
+                "fisher_diff": []
+            },
+            {
+                "feature": "V7",
+                "wasserstein": 0.37965621262244764,
+                "kl_divergence": [],
+                "fisher_diff": []
+            },
+            {
+                "feature": "V18",
+                "wasserstein": 0.03607599575749907,
+                "kl_divergence": [],
+                "fisher_diff": []
+            },
+            {
+                "feature": "V3",
+                "wasserstein": 0.17298291144077746,
+                "kl_divergence": [],
+                "fisher_diff": []
+            },
+            {
+                "feature": "V9",
+                "wasserstein": 0.013755985122083734,
+                "kl_divergence": [],
+                "fisher_diff": []
+            },
+            {
+                "feature": "V5",
+                "wasserstein": 0.48213007000313113,
+                "kl_divergence": [],
+                "fisher_diff": []
+            },
+            {
+                "feature": "V1",
+                "wasserstein": 0.03674099387155545,
+                "kl_divergence": [],
+                "fisher_diff": []
+            },
+            {
+                "feature": "V6",
+                "wasserstein": 0.3905873594531922,
+                "kl_divergence": [],
+                "fisher_diff": []
+            }
+        ],
+        "avg_wasserstein": 0.14166575683140253,
+        "avg_kl_divergence": "NA",
+        "avg_fisher_diff": "NA"
+    },
+    {
+        "interval_pair": "5-Test",
+        "feature_drifts": [
+            {
+                "feature": "V17",
+                "wasserstein": 0.013906698473371063,
+                "kl_divergence": [],
+                "fisher_diff": []
+            },
+            {
+                "feature": "V10",
+                "wasserstein": 0.10973419260034631,
+                "kl_divergence": [],
+                "fisher_diff": []
+            },
+            {
+                "feature": "V14",
+                "wasserstein": 0.017892543593243965,
+                "kl_divergence": [],
+                "fisher_diff": []
+            },
+            {
+                "feature": "V12",
+                "wasserstein": 0.019253927017170953,
+                "kl_divergence": [],
+                "fisher_diff": []
+            },
+            {
+                "feature": "V11",
+                "wasserstein": 0.07085624715510072,
+                "kl_divergence": [],
+                "fisher_diff": []
+            },
+            {
+                "feature": "V16",
+                "wasserstein": 0.2782125664318377,
+                "kl_divergence": [],
+                "fisher_diff": []
+            },
+            {
+                "feature": "V4",
+                "wasserstein": 0.017994622202017255,
+                "kl_divergence": [],
+                "fisher_diff": []
+            },
+            {
+                "feature": "V7",
+                "wasserstein": 0.30026872351068357,
+                "kl_divergence": [],
+                "fisher_diff": []
+            },
+            {
+                "feature": "V18",
+                "wasserstein": 0.012775184355330366,
+                "kl_divergence": [],
+                "fisher_diff": []
+            },
+            {
+                "feature": "V3",
+                "wasserstein": 0.13415201662640577,
+                "kl_divergence": [],
+                "fisher_diff": []
+            },
+            {
+                "feature": "V9",
+                "wasserstein": 0.003126956654089302,
+                "kl_divergence": [],
+                "fisher_diff": []
+            },
+            {
+                "feature": "V5",
+                "wasserstein": 0.3621878858515996,
+                "kl_divergence": [],
+                "fisher_diff": []
+            },
+            {
+                "feature": "V1",
+                "wasserstein": 0.012271144042450045,
+                "kl_divergence": [],
+                "fisher_diff": []
+            },
+            {
+                "feature": "V6",
+                "wasserstein": 0.3390232685237149,
+                "kl_divergence": [],
+                "fisher_diff": []
+            }
+        ],
+        "avg_wasserstein": 0.12083256978838297,
+        "avg_kl_divergence": "NA",
+        "avg_fisher_diff": "NA"
+    },
+    {
+        "interval_pair": "6-Test",
+        "feature_drifts": [
+            {
+                "feature": "V17",
+                "wasserstein": 0.0636797094356603,
+                "kl_divergence": [],
+                "fisher_diff": []
+            },
+            {
+                "feature": "V10",
+                "wasserstein": 0.003158377732298512,
+                "kl_divergence": [],
+                "fisher_diff": []
+            },
+            {
+                "feature": "V14",
+                "wasserstein": 0.11896501759367836,
+                "kl_divergence": [],
+                "fisher_diff": []
+            },
+            {
+                "feature": "V12",
+                "wasserstein": 0.030584614607523933,
+                "kl_divergence": [],
+                "fisher_diff": []
+            },
+            {
+                "feature": "V11",
+                "wasserstein": 0.0031098485175604803,
+                "kl_divergence": [],
+                "fisher_diff": []
+            },
+            {
+                "feature": "V16",
+                "wasserstein": 0.07169213575922896,
+                "kl_divergence": [],
+                "fisher_diff": []
+            },
+            {
+                "feature": "V4",
+                "wasserstein": 0.010099291567877313,
+                "kl_divergence": [],
+                "fisher_diff": []
+            },
+            {
+                "feature": "V7",
+                "wasserstein": 0.05452038180678125,
+                "kl_divergence": [],
+                "fisher_diff": []
+            },
+            {
+                "feature": "V18",
+                "wasserstein": 0.08656269239204357,
+                "kl_divergence": [],
+                "fisher_diff": []
+            },
+            {
+                "feature": "V3",
+                "wasserstein": 0.004420921458976228,
+                "kl_divergence": [],
+                "fisher_diff": []
+            },
+            {
+                "feature": "V9",
+                "wasserstein": 0.036276211654424094,
+                "kl_divergence": [],
+                "fisher_diff": []
+            },
+            {
+                "feature": "V5",
+                "wasserstein": 0.10187247976281466,
+                "kl_divergence": [],
+                "fisher_diff": []
+            },
+            {
+                "feature": "V1",
+                "wasserstein": 0.014329862194809393,
+                "kl_divergence": [],
+                "fisher_diff": []
+            },
+            {
+                "feature": "V6",
+                "wasserstein": 0.0959644837325428,
+                "kl_divergence": [],
+                "fisher_diff": []
+            }
+        ],
+        "avg_wasserstein": 0.049659716301158556,
+        "avg_kl_divergence": "NA",
+        "avg_fisher_diff": "NA"
+    }
+]

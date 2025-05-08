@@ -1,0 +1,450 @@
+[
+    {
+        "interval_pair": "1-Test",
+        "feature_drifts": [
+            {
+                "feature": "PT08.S1(CO)",
+                "wasserstein": 0.09893684609263127,
+                "kl_divergence": [],
+                "fisher_diff": 6.629231112706752
+            },
+            {
+                "feature": "PT08.S2(NMHC)",
+                "wasserstein": 0.09187933037458468,
+                "kl_divergence": [],
+                "fisher_diff": 2.0689622372092273
+            },
+            {
+                "feature": "PT08.S3(NOx)",
+                "wasserstein": 0.05725594784636745,
+                "kl_divergence": [],
+                "fisher_diff": 5.853428349074196
+            },
+            {
+                "feature": "PT08.S4(NO2)",
+                "wasserstein": 0.06643556380538267,
+                "kl_divergence": [],
+                "fisher_diff": 6.081480736910601
+            },
+            {
+                "feature": "PT08.S5(O3)",
+                "wasserstein": 0.09404976093002614,
+                "kl_divergence": [],
+                "fisher_diff": 2.181658169747969
+            },
+            {
+                "feature": "T",
+                "wasserstein": 0.15692177849595462,
+                "kl_divergence": [],
+                "fisher_diff": 1.1259541681449452
+            },
+            {
+                "feature": "RH",
+                "wasserstein": 0.051201693820999664,
+                "kl_divergence": [],
+                "fisher_diff": 5.242396197435645
+            },
+            {
+                "feature": "AH",
+                "wasserstein": 0.1270364742760636,
+                "kl_divergence": [],
+                "fisher_diff": 2.614786664487319
+            }
+        ],
+        "avg_wasserstein": 0.09296467445525126,
+        "avg_kl_divergence": "NA",
+        "avg_fisher_diff": 3.9747372044645815
+    },
+    {
+        "interval_pair": "2-Test",
+        "feature_drifts": [
+            {
+                "feature": "PT08.S1(CO)",
+                "wasserstein": 0.019772889810212184,
+                "kl_divergence": [],
+                "fisher_diff": 0.4875183078393803
+            },
+            {
+                "feature": "PT08.S2(NMHC)",
+                "wasserstein": 0.099722579550551,
+                "kl_divergence": [],
+                "fisher_diff": 1.9129003585241886
+            },
+            {
+                "feature": "PT08.S3(NOx)",
+                "wasserstein": 0.05839401317580335,
+                "kl_divergence": [],
+                "fisher_diff": 2.4716771685811985
+            },
+            {
+                "feature": "PT08.S4(NO2)",
+                "wasserstein": 0.03807985118608015,
+                "kl_divergence": [],
+                "fisher_diff": 5.136229075925412
+            },
+            {
+                "feature": "PT08.S5(O3)",
+                "wasserstein": 0.04188653188286494,
+                "kl_divergence": [],
+                "fisher_diff": 1.777674435904352
+            },
+            {
+                "feature": "T",
+                "wasserstein": 0.20202586567765252,
+                "kl_divergence": [],
+                "fisher_diff": 3.722045949967171
+            },
+            {
+                "feature": "RH",
+                "wasserstein": 0.04817993148533456,
+                "kl_divergence": [],
+                "fisher_diff": 5.235526371836675
+            },
+            {
+                "feature": "AH",
+                "wasserstein": 0.1772931828529271,
+                "kl_divergence": [],
+                "fisher_diff": 1.854869056779556
+            }
+        ],
+        "avg_wasserstein": 0.08566935570267822,
+        "avg_kl_divergence": "NA",
+        "avg_fisher_diff": 2.8248050906697415
+    },
+    {
+        "interval_pair": "3-Test",
+        "feature_drifts": [
+            {
+                "feature": "PT08.S1(CO)",
+                "wasserstein": 0.05511498630932815,
+                "kl_divergence": [],
+                "fisher_diff": 3.627170434710994
+            },
+            {
+                "feature": "PT08.S2(NMHC)",
+                "wasserstein": 0.07298109403510006,
+                "kl_divergence": [],
+                "fisher_diff": 2.3481828517940517
+            },
+            {
+                "feature": "PT08.S3(NOx)",
+                "wasserstein": 0.04691725417815818,
+                "kl_divergence": [],
+                "fisher_diff": 6.131598478747147
+            },
+            {
+                "feature": "PT08.S4(NO2)",
+                "wasserstein": 0.04116933569665812,
+                "kl_divergence": [],
+                "fisher_diff": 6.008895927069615
+            },
+            {
+                "feature": "PT08.S5(O3)",
+                "wasserstein": 0.09916641905941673,
+                "kl_divergence": [],
+                "fisher_diff": 0.12277575523582662
+            },
+            {
+                "feature": "T",
+                "wasserstein": 0.15519370030896343,
+                "kl_divergence": [],
+                "fisher_diff": 6.462043091645084
+            },
+            {
+                "feature": "RH",
+                "wasserstein": 0.07167703867243304,
+                "kl_divergence": [],
+                "fisher_diff": 0.4288031642701693
+            },
+            {
+                "feature": "AH",
+                "wasserstein": 0.12463148893296205,
+                "kl_divergence": [],
+                "fisher_diff": 5.325542098072033
+            }
+        ],
+        "avg_wasserstein": 0.08335641464912746,
+        "avg_kl_divergence": "NA",
+        "avg_fisher_diff": 3.806876475193115
+    },
+    {
+        "interval_pair": "4-Test",
+        "feature_drifts": [
+            {
+                "feature": "PT08.S1(CO)",
+                "wasserstein": 0.09349487655212163,
+                "kl_divergence": [],
+                "fisher_diff": 1.0487731028891307
+            },
+            {
+                "feature": "PT08.S2(NMHC)",
+                "wasserstein": 0.03752980068009592,
+                "kl_divergence": [],
+                "fisher_diff": 0.8206601539650684
+            },
+            {
+                "feature": "PT08.S3(NOx)",
+                "wasserstein": 0.13851190543760067,
+                "kl_divergence": [],
+                "fisher_diff": 4.178467702301798
+            },
+            {
+                "feature": "PT08.S4(NO2)",
+                "wasserstein": 0.1260563795423387,
+                "kl_divergence": [],
+                "fisher_diff": 1.1667214151789516
+            },
+            {
+                "feature": "PT08.S5(O3)",
+                "wasserstein": 0.060637893792894894,
+                "kl_divergence": [],
+                "fisher_diff": 3.113171744851188
+            },
+            {
+                "feature": "T",
+                "wasserstein": 0.047528663644870496,
+                "kl_divergence": [],
+                "fisher_diff": 2.4138547891277753
+            },
+            {
+                "feature": "RH",
+                "wasserstein": 0.12890702199957788,
+                "kl_divergence": [],
+                "fisher_diff": 4.607326865427259
+            },
+            {
+                "feature": "AH",
+                "wasserstein": 0.039269744780994084,
+                "kl_divergence": [],
+                "fisher_diff": 3.978408679283076
+            }
+        ],
+        "avg_wasserstein": 0.08399203580381179,
+        "avg_kl_divergence": "NA",
+        "avg_fisher_diff": 2.665923056628031
+    },
+    {
+        "interval_pair": "5-Test",
+        "feature_drifts": [
+            {
+                "feature": "PT08.S1(CO)",
+                "wasserstein": 0.07229379041606646,
+                "kl_divergence": [],
+                "fisher_diff": 0.5843625721753174
+            },
+            {
+                "feature": "PT08.S2(NMHC)",
+                "wasserstein": 0.013848715558864341,
+                "kl_divergence": [],
+                "fisher_diff": 0.01539746771303463
+            },
+            {
+                "feature": "PT08.S3(NOx)",
+                "wasserstein": 0.061572997697783335,
+                "kl_divergence": [],
+                "fisher_diff": 1.690057190121145
+            },
+            {
+                "feature": "PT08.S4(NO2)",
+                "wasserstein": 0.06804704004097353,
+                "kl_divergence": [],
+                "fisher_diff": 2.672410980583713
+            },
+            {
+                "feature": "PT08.S5(O3)",
+                "wasserstein": 0.04261045417654834,
+                "kl_divergence": [],
+                "fisher_diff": 2.3373140135449546
+            },
+            {
+                "feature": "T",
+                "wasserstein": 0.04405201644183619,
+                "kl_divergence": [],
+                "fisher_diff": 3.083830217118246
+            },
+            {
+                "feature": "RH",
+                "wasserstein": 0.1639431739329717,
+                "kl_divergence": [],
+                "fisher_diff": 2.420045509420131
+            },
+            {
+                "feature": "AH",
+                "wasserstein": 0.07735278401664303,
+                "kl_divergence": [],
+                "fisher_diff": 4.789297015628016
+            }
+        ],
+        "avg_wasserstein": 0.06796512153521087,
+        "avg_kl_divergence": "NA",
+        "avg_fisher_diff": 2.1990893707880694
+    },
+    {
+        "interval_pair": "6-Test",
+        "feature_drifts": [
+            {
+                "feature": "PT08.S1(CO)",
+                "wasserstein": 0.02448618330616226,
+                "kl_divergence": [],
+                "fisher_diff": 0.7255685140788106
+            },
+            {
+                "feature": "PT08.S2(NMHC)",
+                "wasserstein": 0.0329795633830238,
+                "kl_divergence": [],
+                "fisher_diff": 1.0574219848414703
+            },
+            {
+                "feature": "PT08.S3(NOx)",
+                "wasserstein": 0.03139059512217122,
+                "kl_divergence": [],
+                "fisher_diff": 1.7844274385213108
+            },
+            {
+                "feature": "PT08.S4(NO2)",
+                "wasserstein": 0.013597592413198044,
+                "kl_divergence": [],
+                "fisher_diff": 1.0654025291609504
+            },
+            {
+                "feature": "PT08.S5(O3)",
+                "wasserstein": 0.033220186191833846,
+                "kl_divergence": [],
+                "fisher_diff": 3.019725604158044
+            },
+            {
+                "feature": "T",
+                "wasserstein": 0.07947229802033282,
+                "kl_divergence": [],
+                "fisher_diff": 0.1538431340839388
+            },
+            {
+                "feature": "RH",
+                "wasserstein": 0.05844458919687726,
+                "kl_divergence": [],
+                "fisher_diff": 1.9731691976479517
+            },
+            {
+                "feature": "AH",
+                "wasserstein": 0.21826788073721426,
+                "kl_divergence": [],
+                "fisher_diff": 3.6467528051519578
+            }
+        ],
+        "avg_wasserstein": 0.061482361046351686,
+        "avg_kl_divergence": "NA",
+        "avg_fisher_diff": 1.6782889009555544
+    },
+    {
+        "interval_pair": "7-Test",
+        "feature_drifts": [
+            {
+                "feature": "PT08.S1(CO)",
+                "wasserstein": 0.027222882742187385,
+                "kl_divergence": [],
+                "fisher_diff": 3.3813931749106487
+            },
+            {
+                "feature": "PT08.S2(NMHC)",
+                "wasserstein": 0.05574601705697199,
+                "kl_divergence": [],
+                "fisher_diff": 3.0188410579968927
+            },
+            {
+                "feature": "PT08.S3(NOx)",
+                "wasserstein": 0.00970906884109712,
+                "kl_divergence": [],
+                "fisher_diff": 3.1138582489336297
+            },
+            {
+                "feature": "PT08.S4(NO2)",
+                "wasserstein": 0.01845088177219044,
+                "kl_divergence": [],
+                "fisher_diff": 0.4215625194249455
+            },
+            {
+                "feature": "PT08.S5(O3)",
+                "wasserstein": 0.08611522612767578,
+                "kl_divergence": [],
+                "fisher_diff": 1.800769356329301
+            },
+            {
+                "feature": "T",
+                "wasserstein": 0.0831924219510008,
+                "kl_divergence": [],
+                "fisher_diff": 2.28466342391847
+            },
+            {
+                "feature": "RH",
+                "wasserstein": 0.07773864143342425,
+                "kl_divergence": [],
+                "fisher_diff": 1.6356196408476524
+            },
+            {
+                "feature": "AH",
+                "wasserstein": 0.17225296090337255,
+                "kl_divergence": [],
+                "fisher_diff": 0.576442984213438
+            }
+        ],
+        "avg_wasserstein": 0.06630351260349003,
+        "avg_kl_divergence": "NA",
+        "avg_fisher_diff": 2.0291438008218723
+    },
+    {
+        "interval_pair": "8-Test",
+        "feature_drifts": [
+            {
+                "feature": "PT08.S1(CO)",
+                "wasserstein": 0.046980304794708626,
+                "kl_divergence": [],
+                "fisher_diff": 2.4549304367512175
+            },
+            {
+                "feature": "PT08.S2(NMHC)",
+                "wasserstein": 0.04780314879643871,
+                "kl_divergence": [],
+                "fisher_diff": 2.8161003549840693
+            },
+            {
+                "feature": "PT08.S3(NOx)",
+                "wasserstein": 0.13635561927193354,
+                "kl_divergence": [],
+                "fisher_diff": 7.59360467780923
+            },
+            {
+                "feature": "PT08.S4(NO2)",
+                "wasserstein": 0.026225280897451308,
+                "kl_divergence": [],
+                "fisher_diff": 2.389782703105057
+            },
+            {
+                "feature": "PT08.S5(O3)",
+                "wasserstein": 0.028041085617294383,
+                "kl_divergence": [],
+                "fisher_diff": 2.3976488842198
+            },
+            {
+                "feature": "T",
+                "wasserstein": 0.01954010749368366,
+                "kl_divergence": [],
+                "fisher_diff": 1.292320450828882
+            },
+            {
+                "feature": "RH",
+                "wasserstein": 0.018060508471196633,
+                "kl_divergence": [],
+                "fisher_diff": 0.00028092402972745845
+            },
+            {
+                "feature": "AH",
+                "wasserstein": 0.18370835260591722,
+                "kl_divergence": [],
+                "fisher_diff": 1.6065581834817824
+            }
+        ],
+        "avg_wasserstein": 0.06333930099357801,
+        "avg_kl_divergence": "NA",
+        "avg_fisher_diff": 2.5689033269012205
+    }
+]
